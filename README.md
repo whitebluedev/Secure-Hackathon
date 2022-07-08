@@ -2,7 +2,7 @@
 ### **소프트웨어 개발 시큐어코딩** 해커톤 스터디입니다.
 <br>
 
-- [김지윤]()
+- [김지윤](https://github.com/Security-Whiteblue/SDSC_study/blob/master/KimJiYun/KimJiYun.md)
 
 - [김상윤]()
 
