@@ -1,8 +1,10 @@
 # 해킹 방어를 위한 JAVA 시큐어코딩
 
+[**소프트웨어 보안약점 진단가이드**](https://www.kisa.or.kr/2060204/form?postSeq=9&page=1#fnPostAttachDownload)
+
 <br/>
 
-> [**1. 시큐어코딩의 개요 정리**](https://github.com/Security-Whiteblue/SDSC_study/blob/master/dev-ys-36/1_chapter.md)
+> [**1. 시큐어코딩의 개요 정리**](https://github.com/Security-Whiteblue/SDSC_study/blob/master/dev-ys-36/chapters/1_chapter.md)
 ```
 Chapter 1. 시큐어코딩의 개요 (20p ~ 54p)
 중요도: ★☆☆☆☆
