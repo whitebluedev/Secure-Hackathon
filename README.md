@@ -1,4 +1,4 @@
-# SDSC(Software Development Secure Coding Hackathon)
+## SDSC(Software Development Secure Coding Hackathon)
 ### **소프트웨어 개발보안 시큐어코딩** 해커톤 스터디입니다.
 <br>
 
